@@ -1,2 +1,2 @@
 # keylogger
- keylogging educational program with screenshot feature
+keylogging educational program with screenshot feature
